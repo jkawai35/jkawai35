@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I coded/worked with</h2>
+<h2 align="left">I've coded/worked with</h2>
 
 ###
 
